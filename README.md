@@ -1,36 +1,38 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Fazle Rabbi Dev - Portfolio
 
-## Getting Started
+<img src="./public/images/cover_images/dev-portfolio.jpg" alt="Fazle's Portfolio" />
 
-First, run the development server:
+<div align="center">
+  <p><a href="https://fazle-rabbi-dev.vercel.app">Visit Portfolio ↗</a></p>
+  <p><a href="https://x.com/fazle-rabbi-dev">Follow Me On Twitter ↗</a></p>
+</div>
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Welcome to my portfolio repository! This is where I showcase my journey, skills, and projects as a passionate MERN Stack Developer.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## About Me
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+I am Fazle Rabbi, a web enthusiast from Bangladesh, deeply in love with coding and transforming ideas into web applications. My expertise lies in the MERN stack, and I'm on a mission to become a modern full stack developer.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
-## Learn More
+## Technologies Used 🎉
 
-To learn more about Next.js, take a look at the following resources:
+- **Next.js:** A React framework for building efficient and scalable web applications.
+- **Tailwind CSS:** A utility-first CSS framework for rapid UI development.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Key Features
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+- **🛑 Projects:** Explore a collection of full-stack projects.
+- **💪 Skills:** Check out my proficiency in web development technologies.
+- **✍️ Blogs:** Dive into insightful tech blogs I've written.
+- **📲 Contact:** Connect with me for collaborations, inquiries, or discussions.
 
-## Deploy on Vercel
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## Connect with Me
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Let's connect! Reach out for collaborations, projects, or just a friendly chat.
+
+- [🔴 Portfolio](https://www.fazle-rabbi-dev.vercel.app)
+- [🔗 LinkedIn](https://www.linkedin.com/in/fazlerabbidev)
+- [📧 Email](mailto:fazlerabbidev@outlook.com)
+
+*Feel free to explore, contribute, and get inspired!*
