@@ -1,5 +1,5 @@
 {
-  "name": "my-portpolio",
+  "name": "fazle-rabbi-dev",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+<<<<<<< HEAD
     "next": "14.1.3",
     "react": "^18",
     "react-dom": "^18"
@@ -17,11 +18,29 @@
     "@types/node": "^20",
     "@types/react": "^18",
     "@types/react-dom": "^18",
+=======
+    "lucide-react": "^0.302.0",
+    "next": "^13.4.2",
+    "nodemailer": "^6.9.7",
+    "react": "^18",
+    "react-dom": "^18",
+    "react-hot-toast": "^2.4.1",
+    "react-spinners": "^0.13.8",
+    "react-spring": "^9.7.3",
+    "react-toastify": "^9.1.3",
+    "sweetalert2": "^11.10.2"
+  },
+  "devDependencies": {
+>>>>>>> fe26d25a4b9b791fdad50381a79574376c46020e
     "autoprefixer": "^10.0.1",
     "eslint": "^8",
     "eslint-config-next": "14.1.3",
     "postcss": "^8",
+<<<<<<< HEAD
     "tailwindcss": "^3.3.0",
     "typescript": "5.4.2"
+=======
+    "tailwindcss": "^3.3.0"
+>>>>>>> fe26d25a4b9b791fdad50381a79574376c46020e
   }
 }
