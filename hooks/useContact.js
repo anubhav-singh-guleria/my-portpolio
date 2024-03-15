@@ -1,7 +1,7 @@
 import { useState } from 'react';
-import toast from 'react-hot-toast';
 import Swal from 'sweetalert2';
 import { validateEmail } from '@/lib/utils';
+import toast from 'react-hot-toast';
 
 export const useContact = () => {
   const initialFormData = {
