@@ -3,23 +3,18 @@ import links from "./links"
 export const homePageData = {
   photo: {
     url: "/me.png",
-    alt: "Fazle Rabbi"
+    alt: "Anubhav Singh Guleria"
   },
-  tagline: "I love to transform ideas into web application.",
-  tagline2: "I build web applications to empower businesses",
+  tagline: "I love to solve complex problems via code.",
+  tagline2: "I want to build applications that cater the world.",
   intro:
-    "I am a passionate MERN stack web developer from Bangladesh, deeply in love with coding and exploring various tech domains.",
+    "I am Anubhav, a Full-Stack Java Software Engineer from Bangalore, India. I Love building projects and exploring new ideas and learning new skills.",
   status: [
-    "Im currently building Full Stack Projects.",
-    "Im on a mission to become a full stack developer.",
+    "I currently work in Tavant Technologies India, as a Full-Stack Software Engineer.",
+    "I enjoy solving complex problems, laerning new skills and technologies.",
     "I bring life to designs through lines of code."
   ],
   socials: [
-    {
-      id: 1,
-      name: "twitter",
-      link: links.twitter
-    },
     {
       id: 2,
       name: "linkedin",

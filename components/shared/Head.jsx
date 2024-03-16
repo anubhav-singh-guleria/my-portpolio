@@ -3,7 +3,7 @@ import Head from "next/head";
 export const SeoMetadata = ({ title, desc }) => {
   return (
       <Head>
-        <title>{ title || "Fazle Rabbi - Web Developer"}</title>
+        <title>{ title || "Anubhav Singh Guleria"}</title>
         <meta
           name="description"
           content={desc || ""}

@@ -2,17 +2,15 @@ import {
   Twitter,
   Linkedin,
   Github,
-  FileText,
   Download,
   ChevronsRight,
-  MoveUpRight,
   MousePointerClick
 } from "lucide-react";
 import Image from "next/image";
 import Link from "next/link";
 import { useSpring, animated } from "react-spring";
 import { homePageData } from "@/constants";
-import Swal from "sweetalert2";
+
 
 export const Hero = () => {
   const heroAnimation = useSpring({
@@ -52,9 +50,9 @@ export const Hero = () => {
             </h1>
 
             <p className="my-6 leading-7 font-light">
-              I am Fazle Rabbi a passionate MERN stack{" "}
-              <span className="font-bold">web developer</span> from Bangladesh,
-              deeply in love with coding and exploring various tech domains.
+            I am Anubhav, a Full-Stack Java {" "}
+
+              <span className="font-bold">Software Engineer</span> from Bangalore, India. I Love building projects and exploring new ideas and learning new skills.
             </p>
 
             {/* My Status  */}
@@ -63,18 +61,16 @@ export const Hero = () => {
                 <ChevronsRight size={17} />
                 <span>
                   {" "}
-                  Im currently building{" "}
+                  I currently work in Tavant Technologies India, as a {" "}
                   <span className="gradient_text font-bold">
-                    Full Stack Projects.
+                  Full-Stack Software Engineer.
                   </span>
                 </span>
               </p>
               <p className="my-2 flex gap-2">
                 <ChevronsRight size={17} />
                 <span>
-                  Im on a mission to become a{" "}
-                  <span className="gradient_text font-bold">full stack</span>{" "}
-                  developer.
+                I enjoy solving complex problems, laerning new skills and technologies.
                 </span>
               </p>
               <p className="my-2 flex gap-2">
