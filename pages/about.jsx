@@ -13,12 +13,12 @@ const About = () => {
         desc={site_metadata?.about?.desc}
       />
       
-      <PageTitle title="About fazle rabbi" effect="purple" />
+      <PageTitle title="About me" effect="purple" />
       <div className="">
         {/* Intro */}
         <p className="info dark:bg-transparent dark:p-4 dark:border-l-[.5px] dark:border-teal-400/40 dark:rounded">
           <Image src="/me.png" width={100} height={100} alt="Fazle Rabbi" />
-          Hello, I'm <span className="font-bold">Fazle Rabbi</span>,
+          Hello, I'm <span className="font-bold">Anubhav</span>,
           {" "}
           {aboutPageData?.about_1}
           <br />
