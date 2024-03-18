@@ -5,14 +5,9 @@ export const contactPageData = {
   form_title: "Love to hear from you, Get in touch 👋",
   alternative: {
     telegram: links.telegram,
-    email: "fazlerabbidev@outlook.com"
+    email: "anubhavsguleria@gmail.com"
   },
   socials: [
-    {
-      id: 1,
-      name: "Twitter",
-      link: links.twitter
-    },
     {
       id: 2,
       name: "Linkedin",
@@ -22,16 +17,6 @@ export const contactPageData = {
       id: 3,
       name: "Github",
       link: links.github
-    },
-        {
-      id: 4,
-      name: "Facebook",
-      link: links.facebook
-    },
-    {
-      id: 5,
-      name: "Instagram",
-      link: links.instagram
     }
   ]
 }

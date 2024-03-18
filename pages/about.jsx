@@ -23,8 +23,7 @@ const About = () => {
           {aboutPageData?.about_1}
           <br />
           <br />
-          As part of my next plan, I aim to strengthen my web development skills
-          by continuing to build impactful full-stack{" "}
+          Here have a look at my {" "}
           <Link className="link" href="/projects">
             projects
           </Link>

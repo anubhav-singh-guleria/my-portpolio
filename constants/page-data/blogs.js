@@ -51,8 +51,3 @@ const blogs = [
       link: "https://tech-canvas.vercel.app/blog/amazing-nodejs-modules"
     }
   ]
-
-export const blogPageData = {
-  blogPlatforms,
-  blogs
-};
