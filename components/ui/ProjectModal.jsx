@@ -13,7 +13,7 @@ export const ProjectModal = ({ toggleModal, project }) => {
         </button>
         <div className="mt-4 mb-2">
           <h3 className="sub_heading">
-            🔴 Unveiling the Journey of Building <span className="gradient_text">{project?.details?.title}</span>
+            🔴 <span className="gradient_text">{project?.details?.title}</span>
           </h3>
           <p className="info text-sm">{project?.details?.desc || ""}</p>
         </div>

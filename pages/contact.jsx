@@ -52,22 +52,9 @@ const Contact = () => {
                 </span>
                 <Link
                   className="alternative_contact"
-                  href="mailto:fazlerabbidev@outlook.com"
+                  href="mailto:anubhavsguleria@gmail.com"
                 >
                   {contactPageData?.alternative?.email}
-                </Link>
-              </li>
-              <li className="flex gap-w">
-                <span className="flex items-center gap-2">
-                  <Send size={18} />
-                  Telegram:
-                </span>
-                <Link
-                  className="alternative_contact"
-                  href={contactPageData?.alternative?.telegram || ""}
-                  target="_blank"
-                >
-                  Fazle Rabbi Dev
                 </Link>
               </li>
             </ul>
@@ -99,15 +86,7 @@ const Contact = () => {
         </ul>
       </div>
 
-      <div className="info">
-        <span className="bg-gray-200 shadow-2xl rounded p-1 dark:bg-dark_4 ">
-          💡
-        </span>
-        <p>
-          Looking forward to connecting with fellow enthusiasts and industry
-          professionals!
-        </p>
-      </div>
+
     </section>
   );
 };

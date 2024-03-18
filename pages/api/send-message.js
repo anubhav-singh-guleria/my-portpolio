@@ -29,7 +29,7 @@ export default async function handler(req, res) {
   } catch (error) {
     res.status(500).json({
       success: false,
-      message: "Oops! There was a server side error."
+      message: error
     });
   }
 }
